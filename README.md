@@ -1,6 +1,7 @@
 # Ping-MS-Yoxlama
 
 İnternetinizin Pingini(Ms) Öyrənə Biləcəyiniz Proqram. Çox Sadə Tətbiqdir
+
 Android Studio ilə Hazırlamışam
 
 Qurulum İcazəsi:
