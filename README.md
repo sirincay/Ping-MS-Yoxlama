@@ -2,7 +2,7 @@
 
 İnternetinizin Pingini(Ms) Öyrənə Biləcəyiniz Proqram. Çox Sadə Tətbiqdir
 
-Android Studio ilə Hazırlamışam
+[Android Studio](https://developer.android.com/studio) ilə Hazırlamışdır
 
 Qurulum İcazəsi:
 ~~~
